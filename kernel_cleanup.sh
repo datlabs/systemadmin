@@ -1,7 +1,8 @@
 #!/bin/bash
 
 ################################################################################
-# Purpose: Remove all old Linux kernel images except the currently running one 
+# Purpose: Remove all old Linux kernel images except the currently running one
+# Unix/Linux Distro: Debian
 ## Author: Dat Nguyen
 ## Date: June 9th, 2025
 ## Version: 1.0
